@@ -4,6 +4,9 @@
 | Name | Role | Github | Email |
 |------|------|-----------|-------|
 | Daniel Gililov | Front-End Dev | FunnyShaker | dgililov@myseneca.ca |
+| Trevor Tsang | Back-End Dev | Trexsity | ttsang11@myseneca.ca |
+
+*Other group members did not respond to emails or any contact about this project*
 
 ## Project Description
 Local restaurants often have issues keeping an online presence which limits ability to reach new customers and promote their product. PizzaPalace (made up restaurant for this project/example) is a restaurant we decided to help solve this issue. PizzaPalace not having a dedicated website to their product forces customers to rely on outdated paper ads or even third party delivery services that make a significant commission and over charge customers that may make them steer away from this shop. All these issues lead to reduced profits for the store as well with issues such as the lack of direct user friendly platform where we can share promotions, specials, build long term relationships with loyal customers.
