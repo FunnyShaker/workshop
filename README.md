@@ -4,7 +4,7 @@
 | Name | Role | Github | Email |
 |------|------|-----------|-------|
 | Daniel Gililov | Front-End Dev | FunnyShaker | dgililov@myseneca.ca |
-| Trevor Tsang | Back-End Dev | Trexsity | ttsang11@myseneca.ca |
+| Trever Tsang | Back-End Dev | Trexsity | ttsang11@myseneca.ca |
 
 *Other group members did not respond to emails or any contact about this project*
 
