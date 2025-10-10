@@ -39,6 +39,15 @@ At least five major milestones have been identified for the project’s developm
 <img width="2011" height="641" alt="bts ws6 WBS drawio" src="https://github.com/user-attachments/assets/f6530a62-ac33-43b7-bbf1-b4ebc7e5359f" />
 
 ### 3.2 Requirement Traceability Matrix
+| Req ID | Requirement                                                              | Del ID | Deliverable                                                | Owner               | Status      |
+| ------ | ------------------------------------------------------------------------ | ------ | ---------------------------------------------------------- | ------------------- | ----------- |
+| REQ01  | Responsive website accessible on desktop and mobile                      | DEL01  | Fully functional responsive front-end (React)              | Front-End Developer | Pending     |
+| REQ02  | Secure online ordering system with checkout                              | DEL02  | Working order and checkout flow connected to MongoDB       | Back-End Developer  | Pending     |
+| REQ03  | Menu management dashboard for administrators                             | DEL03  | Admin interface for menu and promotions                    | Full Stack Team     | Planned     |
+| REQ04  | Dynamic updates for promotions and loyalty programs                      | DEL04  | Promotion and loyalty system integrated into dashboard     | Database Specialist | Planned     |
+| REQ05  | Database-driven storage for orders, menus, and users                     | DEL05  | MongoDB schema and data persistence layer                  | Database Specialist | Pending     |
+| REQ06  | Project managed using industry-standard tools (VS Code, GitHub, Postman) | DEL06  | Repository setup, commits, testing logs, and documentation | All Members         | Pending     |
+
 
 
 ## 4. Deliverables
