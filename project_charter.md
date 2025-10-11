@@ -2,9 +2,9 @@
 
 ## 1. Introduction
 
-Local restaurants frequently struggle to maintain a strong online presence, limiting their ability to attract new customers and promote their products effectively. PizzaPalace is a local pizza restaurant chosen by our team to address this common issue. The shop currently lacks a dedicated website, forcing customers to rely on paper advertisements or third-party delivery services that charge high commissions and deter repeat customers.
+Local restaurants frequently struggle to maintain a strong online presence, limiting their ability to attract new customers and promote their products effectively. PizzaPalace is a local pizza restaurant chosen by our team to address this common issue. The shop currently lacks a dedicated website, forcing customers to rely on paper advertisements or third-party delivery services that charge high commissions and discourage repeat customers.
 
-Our team aims to design and develop a modern, responsive website for PizzaPalace that enables direct customer engagement, online ordering, and digital management of promotions and loyalty programs. This project will serve as both a technical exercise in full-stack web development and a business solution that increases restaurant profitability and customer satisfaction.
+Our team aims to design and develop a modern, responsive website for PizzaPalace that enables direct customer engagement, online ordering, and digital management of promotions and loyalty programs. This project will serve as both a technical exercise in full-stack web development and a business solution that enhances restaurant profitability and customer satisfaction
 
 October 10th, 2025
 
