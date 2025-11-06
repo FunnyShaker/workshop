@@ -18,7 +18,7 @@ This website will be built using simple databasing and some different use of fro
 
 ## Work Breakdown Structure (WBS)
 
-![Work Breakdown Structure](WBS.png)
+![Work Breakdown Structure](WBS.png?v=2)
 
 ## Requirements Traceability Matrix (RTM)
 
