@@ -15,3 +15,11 @@ Local restaurants often have issues keeping an online presence which limits abil
 To fix this issue we came up with the solution of a modern, responsive website for PizzaPalace that will allow customers to view menu, customize orders and place delivery or carryout orders as they wish. Within this site you can expect to see an online ordering system with safe and secure checkout for customers, interactive menu with constant updates depending on our specials, promotions and point system, a contact and support page and a map of locations with hours of operation. Creating an admin dashboard will allow staff to change and update menu items, track orders and manage customer feedback. Having this website will reduce how many third party services they use giving full control themselves.
 
 This website will be built using simple databasing and some different use of front end and back end code. For the database we can use MongoDB, for the backend code we are able to use Express.js and Node.js and finally using React for our front end interface. Developing this website can be done within VS Code, GitHub for version controls and Postman for API testing. Overall using all these different technologies in our website will allow the best experience for customers when opening this site.
+
+## Work Breakdown Structure (WBS)
+
+![Work Breakdown Structure](WBS.png)
+
+## Requirements Traceability Matrix (RTM)
+
+![Requirements Traceability Matrix](RTM.png)
