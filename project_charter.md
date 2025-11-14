@@ -38,7 +38,10 @@ At least five major milestones have been identified for the project’s developm
 ### 3.1 Work Breakdown Structure
 <img width="2011" height="641" alt="bts ws6 WBS drawio" src="https://github.com/user-attachments/assets/f6530a62-ac33-43b7-bbf1-b4ebc7e5359f" />
 
-### 3.2 Requirement Traceability Matrix
+### 3.2 Gantt Chart
+![Gantt Chart](gantt_chart.png)
+
+### 3.3 Requirement Traceability Matrix
 | Req ID | Requirement                                                              | Del ID | Deliverable                                                | Owner               | Status      |
 | ------ | ------------------------------------------------------------------------ | ------ | ---------------------------------------------------------- | ------------------- | ----------- |
 | REQ01  | Responsive website accessible on desktop and mobile                      | DEL01  | Fully functional responsive front-end (React)              | Front-End Developer | Pending     |
@@ -66,5 +69,7 @@ At least five major milestones have been identified for the project’s developm
 
 
 ## 5. Preliminary Budget
+![Budget](budget.png)
+
 ## 6. Organization and Stakeholders
 ## 7. Risks, Assumptions, and Constraints
