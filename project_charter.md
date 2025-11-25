@@ -72,4 +72,11 @@ At least five major milestones have been identified for the project’s developm
 ![Budget](budget.png)
 
 ## 6. Organization and Stakeholders
+
+### 6.1 Stakeholder Analysis Matrix
+![Stakeholder Analysis Matrix](Shareholder_matrix.png)
+
+### 6.2 Communications Plan
+![Communications Plan](Communication_Plan.png)
+
 ## 7. Risks, Assumptions, and Constraints
