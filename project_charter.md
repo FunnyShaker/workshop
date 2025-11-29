@@ -80,3 +80,6 @@ At least five major milestones have been identified for the project’s developm
 ![Communications Plan](Communication_Plan.png)
 
 ## 7. Risks, Assumptions, and Constraints
+
+### 7.1 Risk Evaluation Chart
+![Risk Evaluation Chart](risk_evaluation.png)
